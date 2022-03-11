@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #2b2d42;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+.main-content{
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    padding: 5px 10px;
+    margin: 0px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 250px;
+    height: auto;
+}
+
+.card .title{
+    display: flex;
+    justify-content: center;
+}
